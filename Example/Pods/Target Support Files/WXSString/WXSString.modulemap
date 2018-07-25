@@ -1,0 +1,6 @@
+framework module WXSString {
+  umbrella header "WXSString-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - WXSString (0.1.0)
+
+DEPENDENCIES:
+  - WXSString (from `../`)
+
+EXTERNAL SOURCES:
+  WXSString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WXSString: 6a85f87c1dfba4c628c4a805a897cc06cb3a98e3
+
+PODFILE CHECKSUM: 6a8709986fee68a74a1694bf48c54944624a793f
+
+COCOAPODS: 1.5.3
