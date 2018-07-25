@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NSString+WXS.h"
 
 FOUNDATION_EXPORT double WXSStringVersionNumber;
 FOUNDATION_EXPORT const unsigned char WXSStringVersionString[];

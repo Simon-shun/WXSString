@@ -1,9 +1,9 @@
 {
   "name": "WXSString",
   "version": "0.1.0",
-  "summary": "A short description of WXSString.",
+  "summary": "A NSString Category.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wangxishun/WXSString",
+  "homepage": "https://github.com/wangxiGitHub/WXSString",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "wangxishun": "wangxishun@beyondbit.com"
   },
   "source": {
-    "git": "https://github.com/wangxishun/WXSString.git",
+    "git": "https://github.com/wangxiGitHub/WXSString.git",
     "tag": "0.1.0"
   },
   "platforms": {
